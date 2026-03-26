@@ -3,6 +3,7 @@
 ## Overview
 This project predicts customer attrition (churn) in the banking sector using machine learning techniques. It applies feature engineering and hyperparameter tuning to optimize performance.
 
+
 ## Dataset
 The dataset used is **Bank Customer.csv**, which includes various customer attributes influencing retention and churn.
 
